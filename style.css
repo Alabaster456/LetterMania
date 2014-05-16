@@ -1,0 +1,205 @@
+#background {
+   width:100%;
+    height:100%;
+ 
+  top:0px;
+    left:0px;
+  position:fixed;
+}
+#letterA {
+  color:red;
+  font-family:cursive;
+  font-size:120px;
+  position:fixed;
+}
+#letterB {
+  color: blue;
+  font-family:cursive;
+  font-size:120px;
+  position:fixed;
+  margin-left:100px;
+}
+#letterC {
+  color:green;
+  font-family:cursive;
+  font-size:120px;
+  margin-left:200px;
+  position:fixed;
+}
+#letterD {
+  color:purple;
+  font-family:cursive;
+  font-size:120px;
+  margin-left:300px;
+  position:fixed;
+}
+#letterE {
+  color:black;
+  font-family:cursive;
+  font-size:120px;
+  margin-left:400px;
+  position:fixed;
+}
+#letterF {
+  color:maroon;
+  font-family:cursive;
+  font-size:120px;
+  margin-left:500px;
+  position:fixed;
+}
+#letterG {
+  color: yellow;
+  font-family:cursive;
+  font-size:120px;
+  margin-left:600px;
+  position:fixed;
+}
+#letterH {
+  color:darkblue;
+  font-family:cursive;
+  font-size:120px;
+  margin-left:700px;
+  position:fixed;
+}
+#letterI {
+  color:darkgreen;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:180px;
+  position:fixed;
+}
+#letterJ {
+  color:darkyellow;
+  font-family:cursive;
+  font-size:120px;
+  margin-top: 180px;
+  margin-left:100px;
+  position:fixed;
+}
+#letterK {
+  color:lightgreen;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:180px;
+  margin-left:200px;
+  position:fixed;
+}
+#letterL {
+  color:darkred;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:180px;
+  margin-left:300px;
+  position:fixed;
+}
+#letterM {
+  color:darkcyan;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:180px;
+  margin-left:400px;
+  position:fixed;
+}
+#letterN {
+  color:gray;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:180px;
+  margin-left:520px;
+  position:fixed;
+}
+#letterO {
+  color:lightgray;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:180px;
+  margin-left:620px;
+  position:fixed;
+}
+#letterP {
+  color:pink;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:180px;
+  margin-left:720px;
+  position:fixed;
+}
+#letterQ {
+  color:red;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:180px;
+  margin-left:800px;
+  position:fixed;
+}
+#letterR {
+  color:blue;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:330px;
+  position:fixed;
+}
+#letterS {
+  color: darkgreen;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:330px;
+  margin-left:100px;
+  position:fixed;
+}
+#letterT {
+  color:pink;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:330px;
+  margin-left:200px;
+  position:fixed;
+}
+#letterU {
+  color:darkred;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:330px;
+  margin-left:300px;
+  position:fixed;
+}
+#letterV {
+  color:darkgray;
+  font-family:cursive;
+    font-size:120px;
+  margin-top:330px;
+  margin-left:400px;
+  position:fixed;
+}
+#letterW {
+  color: darkcyan;
+    font-family:cursive;
+  font-size:120px;
+  margin-top:330px;
+  margin-left:500px;
+  position:fixed;
+}
+#letterX {
+  color: yellow;
+    font-family:cursive;
+  font-size:120px;
+  margin-top:330px;
+  margin-left:650px;
+  position:fixed;
+}
+#letterY {
+  color:red;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:330px;
+  margin-left:780px;
+  position:fixed;
+}
+#letterZ {
+  color:blue;
+  font-family:cursive;
+  font-size:120px;
+  margin-top:330px;
+  margin-left:870px;
+  position:fixed;
+}
