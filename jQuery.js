@@ -1,4 +1,6 @@
 $(document).ready(function(){
+
+//Expands each letter if the mouse hovers over it.
 $("#expand").mouseenter(function(){
 $("#expand").css("font-size", "150px");
   
